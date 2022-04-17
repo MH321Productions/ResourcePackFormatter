@@ -3,4 +3,11 @@
   <groupId>io.github.MH321Productions</groupId>
   <artifactId>ResourcePackFormatter</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  	<dependency>
+  		<groupId>com.miglayout</groupId>
+  		<artifactId>miglayout-swing</artifactId>
+  		<version>4.2</version>
+  	</dependency>
+  </dependencies>
 </project>
